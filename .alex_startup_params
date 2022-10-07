@@ -1,0 +1,2 @@
+alias hkdir_dir="cd '/mnt/c/Documents and Settings/alei/My Documents/HKDIR'"
+alias docker_start="source ~/.start_docker"
