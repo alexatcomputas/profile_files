@@ -1,4 +1,4 @@
 # Add lines following:
-if [ -f ~/.alex_startup_params ]; then
-    . ~/.alex_startup_params
+if [ -f ~/.startup_params ]; then
+    . ~/.startup_params
 fi
