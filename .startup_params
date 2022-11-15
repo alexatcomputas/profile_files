@@ -1,2 +1,3 @@
 alias hkdir_dir="cd '/mnt/c/Documents and Settings/alei/My Documents/HKDIR'"
 alias docker_start="source ~/.start_docker"
+alias siktup="cd ~/github/sikt-file-upload-portal"
